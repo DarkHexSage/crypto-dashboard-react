@@ -7,5 +7,5 @@ services:
       dockerfile: Dockerfile
     container_name: crypto-dashboard
     ports:
-      - "3000:80"
+      - "32798:80"
     restart: unless-stopped
